@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  # Chat services will be added here
+
+networks:
+  chat-network:
+    driver: bridge
